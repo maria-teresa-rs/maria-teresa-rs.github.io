@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/post-1/</loc>
+    <loc>https://maria-teresa-rs.github.io/docs/post-1/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>https://maria-teresa-rs.github.io/docs/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>/docs/ejemplo/</loc>
+    <loc>https://maria-teresa-rs.github.io/docs/plano-de-luz/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/markdown/</loc>
+    <loc>https://maria-teresa-rs.github.io/docs/volumen-de-luz/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://maria-teresa-rs.github.io/docs/ejemplo/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://maria-teresa-rs.github.io/docs/markdown/</loc>
+    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://maria-teresa-rs.github.io/</loc>
+    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
+  </url><url>
+    <loc>https://maria-teresa-rs.github.io/categories/</loc>
+  </url><url>
+    <loc>https://maria-teresa-rs.github.io/tags/</loc>
   </url>
 </urlset>

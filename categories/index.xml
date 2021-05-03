@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Maria Teresa Rodriguez - MID 2021</title>
-    <link>/categories/</link>
+    <link>https://maria-teresa-rs.github.io/categories/</link>
     <description>Recent content in Categories on Maria Teresa Rodriguez - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://maria-teresa-rs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

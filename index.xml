@@ -2,35 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Teresa Rodriguez on Maria Teresa Rodriguez - MID 2021</title>
-    <link>/</link>
+    <link>https://maria-teresa-rs.github.io/</link>
     <description>Recent content in Maria Teresa Rodriguez on Maria Teresa Rodriguez - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://maria-teresa-rs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lontra Platform</title>
-      <link>/docs/post-1/</link>
+      <link>https://maria-teresa-rs.github.io/docs/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/post-1/</guid>
+      <guid>https://maria-teresa-rs.github.io/docs/post-1/</guid>
       <description>Proyecto desarrollado en taller de proyecto complejo, con el cual participamos en el concurso La Creature junto a Cristobal Ogrodnik.</description>
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>/docs/ejemplo/</link>
+      <title>Plano de luz</title>
+      <link>https://maria-teresa-rs.github.io/docs/plano-de-luz/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/ejemplo/</guid>
+      <guid>https://maria-teresa-rs.github.io/docs/plano-de-luz/</guid>
+      <description>Planos de luz hechos analogamente.</description>
+    </item>
+    
+    <item>
+      <title>Volumen de luz</title>
+      <link>https://maria-teresa-rs.github.io/docs/volumen-de-luz/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/docs/volumen-de-luz/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://maria-teresa-rs.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>/docs/markdown/</link>
+      <link>https://maria-teresa-rs.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/markdown/</guid>
+      <guid>https://maria-teresa-rs.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
