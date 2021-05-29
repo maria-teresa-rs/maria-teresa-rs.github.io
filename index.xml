@@ -52,5 +52,23 @@
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
+    <item>
+      <title>Fusion 360 Ejercicio 6</title>
+      <link>https://maria-teresa-rs.github.io/docs/fusion-360-e06/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/docs/fusion-360-e06/</guid>
+      <description>Superficie generada en Fusion 360 y posteriormente renderisada en Keyshot</description>
+    </item>
+    
+    <item>
+      <title>vJumper</title>
+      <link>https://maria-teresa-rs.github.io/docs/markdown-copia/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/docs/markdown-copia/</guid>
+      <description>Benavides - Ogrodnik - Rodríguez</description>
+    </item>
+    
   </channel>
 </rss>
