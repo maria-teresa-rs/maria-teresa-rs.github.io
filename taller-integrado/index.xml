@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Teresa Rodriguez on Maria Teresa Rodriguez - MID 2021</title>
+    <link>https://maria-teresa-rs.github.io/taller-integrado/</link>
+    <description>Recent content in Maria Teresa Rodriguez on Maria Teresa Rodriguez - MID 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://maria-teresa-rs.github.io/taller-integrado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lontra Platform</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/post-1/</guid>
+      <description>Proyecto desarrollado en taller de proyecto complejo, con el cual participamos en el concurso La Creature junto a Cristobal Ogrodnik.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial After effects</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/tutorial/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/tutorial/</guid>
+      <description>Proyecto desarrollado en taller de proyecto complejo, con el cual participamos en el concurso La Creature junto a Cristobal Ogrodnik.</description>
+    </item>
+    
+    <item>
+      <title>Plano de luz</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/plano-de-luz/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/plano-de-luz/</guid>
+      <description>Planos de luz hechos analogamente.</description>
+    </item>
+    
+    <item>
+      <title>Volumen de luz</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/volumen-de-luz/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/volumen-de-luz/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Fusion 360 Ejercicio 6</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/fusion-360-e06/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/fusion-360-e06/</guid>
+      <description>Superficie generada en Fusion 360 y posteriormente renderisada en Keyshot</description>
+    </item>
+    
+    <item>
+      <title>vJumper</title>
+      <link>https://maria-teresa-rs.github.io/taller-integrado/docs/examen/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-integrado/docs/examen/</guid>
+      <description>Benavides - Ogrodnik - Rodríguez</description>
+    </item>
+    
+  </channel>
+</rss>
