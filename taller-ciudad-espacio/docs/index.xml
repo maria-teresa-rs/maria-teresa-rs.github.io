@@ -8,11 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
+      <title>1- Tema</title>
+      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e01/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
+      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e01/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>2- Dibujos</title>
+      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e02/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e02/</guid>
+      <description>Queremos generas una sana convivencia entre murcielagos y humanos</description>
+    </item>
+    
+    <item>
+      <title>3- Propuesta de Valor</title>
+      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e03/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e03/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>4- Animación</title>
+      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e04/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e04/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>5- Modelados 3D</title>
+      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e05/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e05/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>6- Midterm</title>
+      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e06/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e06/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
@@ -22,33 +67,6 @@
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Propuesta murcielago</title>
-      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e02/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e02/</guid>
-      <description>Queremos generas una sana convivencia entre murcielagos y humanos</description>
-    </item>
-    
-    <item>
-      <title>Puente murcielagos</title>
-      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e03/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e03/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Animales vs humanos</title>
-      <link>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e01/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maria-teresa-rs.github.io/taller-ciudad-espacio/docs/e01/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
