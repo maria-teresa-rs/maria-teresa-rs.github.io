@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://maria-teresa-rs.github.io/portafolio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Batipuente</title>
-      <link>https://maria-teresa-rs.github.io/portafolio/docs/batipuente/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maria-teresa-rs.github.io/portafolio/docs/batipuente/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Lontra Platform</title>
-      <link>https://maria-teresa-rs.github.io/portafolio/docs/1-tutoriales-hugo-complementarios/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maria-teresa-rs.github.io/portafolio/docs/1-tutoriales-hugo-complementarios/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
       <title>vJumper</title>
       <link>https://maria-teresa-rs.github.io/portafolio/docs/vjumper/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -35,12 +17,30 @@
     </item>
     
     <item>
-      <title>2 - Tutoriales Fusion 360 (Complementarios)</title>
+      <title>Batipuente</title>
+      <link>https://maria-teresa-rs.github.io/portafolio/docs/batipuente/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/portafolio/docs/batipuente/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Centro de proyectos para reciclaje textil</title>
       <link>https://maria-teresa-rs.github.io/portafolio/docs/2-tutoriales-fusion-complementarios/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://maria-teresa-rs.github.io/portafolio/docs/2-tutoriales-fusion-complementarios/</guid>
-      <description>Video tutoriales complementarios de Fusion 360.</description>
+      <description>Proyecto realizado en Taller de ecología y urbanismo.</description>
+    </item>
+    
+    <item>
+      <title>Lontra Platform</title>
+      <link>https://maria-teresa-rs.github.io/portafolio/docs/lontra-paltform/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://maria-teresa-rs.github.io/portafolio/docs/lontra-paltform/</guid>
+      <description>Proyecto desarrollado en taller de proyecto complejo, con el cual participamos en el concurso La Creature junto a Cristobal Ogrodnik.</description>
     </item>
     
     <item>
